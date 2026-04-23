@@ -11,11 +11,11 @@ This repository is a comprehensive collection of my lab work, projects, and exam
 ## 📂 Repository Structure & Key Projects
 
 
-### 🌟 Featured Implementation: Library Membership System (Lab 3)
+### 🌟 Library Membership System (Lab 3)
 * **Automated Identity Logic:** Static counters and prefixes to generate unique IDs (e.g., `LIB-0001`).
 * **State Management:** Tracking fee status and activity levels for student members.
 
-### 🌟 Featured Implementation: Card Game Engine (Lab 5)
+### 🌟 Card Game Engine (Lab 5)
 A fully functional card game logic implementation featuring:
 * **Custom Deck Management:** 52-card deck with automated shuffling and drawing logic.
 * **Complex Mapping:** Use of Enums and custom logic to assign values to Face cards (Ace, King, Queen, Jack).
